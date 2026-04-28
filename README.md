@@ -8,7 +8,7 @@
 * Habit Tracker — трекер привычек
 * Notes — заметки
 * Pomodoro Timer — таймер продуктивности
-* 🛒 Shopping List — список покупок
+* Shopping List — список покупок
 * Dark Theme -переключать с тесной на светлую сторону
 * Count History - считать клик 
 * Countdown - обратный отчет
